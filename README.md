@@ -1,10 +1,10 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=xzelleiv&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Builder&descAlignY=55&descAlign=50" width="100%" alt="header"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=xzelleiv&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 
   <p>
     <a href="https://github.com/xzelleiv">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-xzelleiv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://pixelatedgarden.me">
       <img src="https://img.shields.io/badge/Website-Pixelated_Garden-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
@@ -17,15 +17,16 @@
 
 ### 👨‍💻 **About Me**
 
-a developer that buildsinteractive web experiences and game mechanics. I specialize in front-end, Molang.
+I am a developer building interactive web experiences and game mechanics. I specialize in front-end development and Molang.
 
 * **Current Projects:** Working on [**Pixelated Garden**](https://pixelatedgarden.me) and **Betafied**.
 * **Focus:** Refining responsive web designs and optimizing Java algorithms.
+
 ---
 
 ### 🛠️ **Tech Stack**
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,git,github,vscode,idea,figma&theme=dark&perline=15" alt="Tech Stack" />
 </div>
 
@@ -53,5 +54,5 @@ a developer that buildsinteractive web experiences and game mechanics. I special
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xzelleiv&color=33aadd&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xzelleiv&color=33aadd&style=flat-square&label=VISITOR+COUNT" alt="profile views" />
 </div>
