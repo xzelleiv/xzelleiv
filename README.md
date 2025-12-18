@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,33aadd,7000ff&height=250&section=header&text=xzelleiv&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 
   <a href="https://github.com/xzelleiv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=500&color=33aadd&center=true&vCenter=true&width=600&lines=Yo,+I'm+xzelleiv;Creator+of+Pixelated+Garden+🌿;Building+Project+Betafied+🚧;Molang+Wizard+%26+MC+Addon+Dev;Grinding+Java+and+Web+Tech;Welcome+to+my+profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=33aadd&center=true&vCenter=true&width=600&lines=Yo,+I'm+xzelleiv;Pixel+Garden+Developer;Betafied+Developer" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/GitHub-xzelleiv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://pixelatedgarden.me">
-      <img src="https://img.shields.io/badge/Flex-Pixelated_Garden-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Project-Pixelated_Garden-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
   </p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 **Dev**
+### 👨‍💻 **TDev**
 
 I build interactive web experiences and game mechanics.
 
@@ -34,7 +34,7 @@ I build interactive web experiences and game mechanics.
 
 ---
 
-### 🛠️ **Arsenal**
+### 🛠️ **Tech Stack**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,git,github,vscode,idea,figma&theme=dark&perline=15" alt="Tech Stack" />
@@ -42,7 +42,7 @@ I build interactive web experiences and game mechanics.
 
 ---
 
-### 📈 **The Grind**
+### 📈 **Stats**
 
 <div align="center">
   <table>
