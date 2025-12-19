@@ -29,7 +29,7 @@
 
 I build interactive web experiences and game mechanics.
 
-* **Current Projects:** [**Pixelated Garden**](https://pixelatedgarden.me) and **Betafied**.
+* **Current Projects:** [**Pixelated Garden**](https://pixelatedgarden.me) and [**Betafied**]([https://pixelatedgarden.me](https://github.com/betafiedmc/betafied-addon)).
 * **Focus:** Refining responsive web designs, Molang, and Minecraft Addons.
 
 ---
