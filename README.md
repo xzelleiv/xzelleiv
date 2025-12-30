@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 **TDev**
+### 👨‍💻 **Info**
 
 I build interactive web experiences and game mechanics.
 
