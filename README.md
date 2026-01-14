@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,33aadd,7000ff&height=250&section=header&text=xzelleiv&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 
   <a href="https://github.com/xzelleiv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=33aadd&center=true&vCenter=true&width=600&lines=Yo,+I'm+xzelleiv;Pixel+Garden+Developer;Betafied+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=33aadd&center=true&vCenter=true&width=600&lines=Yo,+I'm+xzelleiv;Lumina+Developer;Betafied+Developer" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -27,14 +27,10 @@
 
 ### 👨‍💻 **Info**
 
-I build interactive web experiences and game mechanics.
-
-* **Current Projects:** [**Pixelated Garden**](https://pixelatedgarden.me) and [**Betafied**](https://github.com/betafiedmc/betafied-addon).
-* **Focus:** Refining responsive web designs, Molang, and Minecraft Addons.
-
+* **Current Projects:** [**Lumina Client**](https://projectlumina.online) and [**Betafied**](https://github.com/betafiedmc/betafied-addon).
 ---
 
-### 🛠️ **Tech Stack**
+### **Stack**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,git,github,vscode,idea,figma&theme=dark&perline=15" alt="Tech Stack" />
@@ -42,7 +38,7 @@ I build interactive web experiences and game mechanics.
 
 ---
 
-### 📈 **Stats**
+### **Stats**
 
 <div align="center">
   <table>
