@@ -27,7 +27,7 @@
 
 ### 👨‍💻 **Info**
 
-* **Current Projects:** [**Lumina Client**](https://projectlumina.online) and [**Betafied**](https://github.com/betafiedmc/betafied-addon).
+* **Current Projects:** [**Lumina Client**](https://projectlumina.online) - [**Essence**](https://github.com/TheProjectLumina/Essence) and [**Betafied**](https://github.com/betafiedmc/betafied-addon).
 ---
 
 ### **Stack**
