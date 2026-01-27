@@ -12,7 +12,7 @@
     <a href="https://github.com/xzelleiv">
       <img src="https://img.shields.io/badge/GitHub-xzelleiv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://pixelatedgarden.me">
+    <a href="https://projectlumina.online">
       <img src="https://img.shields.io/badge/Project-Pixelated_Garden-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
   </p>
