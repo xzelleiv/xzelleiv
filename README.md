@@ -10,7 +10,7 @@
 
 <pre>
 a hobbyist custom rom/android developer
-project lumina • minecraft ecosystem work • web + tooling
+project lumina • minecraft java/be development • web + tooling
 
 currently:
 - lumina client
