@@ -33,9 +33,6 @@ currently:
   <a href="https://github.com/betafiedmc/betafied-addon">
     <img src="https://img.shields.io/badge/repo-betafied_addon-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/search/Fake%20Plastic%20Trees%20Radiohead">
-    <img src="https://img.shields.io/badge/playing-fake_plastic_trees_(radiohead)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
 </div>
 
 ---
