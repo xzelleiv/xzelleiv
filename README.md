@@ -14,6 +14,7 @@ project lumina • minecraft java/be development • web + tooling
 
 currently:
  • lumina client
+ • ambient launcher 
  • essence
  • betafied addon
  • xiaomi BUS
